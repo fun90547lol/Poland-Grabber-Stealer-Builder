@@ -110,5 +110,4 @@ this to your victims.😈
 
 <div align="center">
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://cdn.discordapp.com/attachments/1202370899756724325/1203329317094948884/image.png?ex=65d0b2c1&is=65be3dc1&hm=d2fcc17ef57575b564bda4861d5e195e5bea1372c1e281b63ec2144464a2c888&>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.imgur.com/s5f4HVs.png"></img>
-</div>
+
