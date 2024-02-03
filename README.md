@@ -1,19 +1,9 @@
 <h1 align="center">
-  Luna Token Grabber
+  Poland Token Grabber
 </h1>
 
 <div align="center">
   <img  src="https://cdn.discordapp.com/attachments/1202370899756724325/1203325922242072616/poland-flag-png-large.png?ex=65d0af98&is=65be3a98&hm=491632b9521276e87a851640c7d3121927becafd59e912e5358b17449435f31c&">
-  <br>
-  <img  src="https://img.shields.io/github/languages/top/Smug246/Luna-Token-Grabber?color=6d00c1">
-  <img  src="https://img.shields.io/github/stars/Smug246/Luna-Token-Grabber?color=6d00c1&logoColor=6d00c1">
-  <br>
-  <img  src="https://img.shields.io/github/commit-activity/w/Smug246/Luna-Token-Grabber?color=6d00c1">
-  <img  src="https://img.shields.io/github/last-commit/Smug246/Luna-Token-Grabber?color=6d00c1&logoColor=6d00c1">
-  <br>
-  <img  src="https://img.shields.io/github/issues/Smug246/Luna-Token-Grabber?color=6d00c1&logoColor=6d00c1">
-  <img  src="https://img.shields.io/github/issues-closed/Smug246/Luna-Token-Grabber?color=6d00c1&logoColor=6d00c1">
-  <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
 </div>
 
 ## Features
