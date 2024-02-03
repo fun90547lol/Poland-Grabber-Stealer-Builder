@@ -1,10 +1,19 @@
 <h1 align="center">
-  Poland Token Grabber
+  Luna Token Grabber
 </h1>
 
 <div align="center">
   <img  src="https://cdn.discordapp.com/attachments/1202370899756724325/1203325922242072616/poland-flag-png-large.png?ex=65d0af98&is=65be3a98&hm=491632b9521276e87a851640c7d3121927becafd59e912e5358b17449435f31c&">
   <br>
+  <img  src="https://img.shields.io/github/languages/top/Smug246/Luna-Token-Grabber?color=6d00c1">
+  <img  src="https://img.shields.io/github/stars/Smug246/Luna-Token-Grabber?color=6d00c1&logoColor=6d00c1">
+  <br>
+  <img  src="https://img.shields.io/github/commit-activity/w/Smug246/Luna-Token-Grabber?color=6d00c1">
+  <img  src="https://img.shields.io/github/last-commit/Smug246/Luna-Token-Grabber?color=6d00c1&logoColor=6d00c1">
+  <br>
+  <img  src="https://img.shields.io/github/issues/Smug246/Luna-Token-Grabber?color=6d00c1&logoColor=6d00c1">
+  <img  src="https://img.shields.io/github/issues-closed/Smug246/Luna-Token-Grabber?color=6d00c1&logoColor=6d00c1">
+  <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
 </div>
 
 ## Features
@@ -100,10 +109,6 @@ this to your victims.😈
 ### GUI
 
 <div align="center">
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.imgur.com/E8tX79g.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.imgur.com/c1cUmZF.png"></img> 
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.imgur.com/zReVojP.png"></img>  
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.imgur.com/9u8nNbD.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.imgur.com/6GO5CB4.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.imgur.com/4DNCiAJ.png"></img>
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://cdn.discordapp.com/attachments/1202370899756724325/1203329317094948884/image.png?ex=65d0b2c1&is=65be3dc1&hm=d2fcc17ef57575b564bda4861d5e195e5bea1372c1e281b63ec2144464a2c888&>
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.imgur.com/s5f4HVs.png"></img>
+</div>
